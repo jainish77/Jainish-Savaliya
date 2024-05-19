@@ -21,6 +21,32 @@ About Me
 
 🤝 Possess strong technical skills complemented by excellence in communicating complex findings to diverse stakeholders. Looking to leverage my interdisciplinary expertise to unearth innovative data-driven solutions in a collaborative team environment.
 
+Work experience
+======
+**Graduate Research Assistant, School of Information, [C4 Lab](https://c4-lab.github.io/), Syracuse, New York (November 2023 – Present)**
+
+- Designing scalable data pipeline to extract and transform 500GB Reddit dataset (100M+ comments/submissions), aiming for 20% faster processing using zstandard compression and parallel processing techniques.
+
+- Developing custom Python scripts to parse 150M JSON records with 98% accuracy, ensuring 95% overall data quality and integrity.
+
+- Engineering efficient data storage solution by converting data to Apache Parquet format, optimizing for 15% better compression and 20% faster partition pruning to enable high-performance queries on 16-core server.
+
+- Validating transformed Parquet data by running 20+ SQL queries, confirming 98% data integrity and 90% queryability for downstream analysis and using structured 500GB dataset to build ML models forecasting Reddit user behavior and engagement.
+
+- Presenting initial findings and 500GB Parquet dataset to professor, demonstrating suitability for predictive models with 80%+ accuracy.
+
+
+**Programmer Analyst, [Saeculum Solutions Pvt Ltd](https://saeculumsolutions.com/), Ahmedabad, India (June 2021 – April 2022)**
+- Built D3.js & React front-end, Driving15% increase in user engagement &10% improvement in data-driven decisions.
+
+- Conducted 10 A/B tests on web features, resulting in a 10% improvement in key metrics such as conversion rate and bounce rate.
+
+- Collaborated cross-functionally to define data requirements, design analytics pipelines, and improve data-driven decisions by 20%.
+
+- Presented 20 data analysis findings to stakeholders, influencing 50% of product roadmap decisions and marketing strategies.
+
+
+
 
 
 ---
