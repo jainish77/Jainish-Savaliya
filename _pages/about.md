@@ -8,7 +8,8 @@ redirect_from:
   - /about.html
 ---
 
-![Illustation](/images/Illustation.jpg){: .align-right width='30px}
+![Illustration](/images/Illustration.jpg){: .align-right width='30px'}
+
 
 About Me
 ======
