@@ -23,7 +23,8 @@ About Me
 
 Work experience
 ======
-**Graduate Research Assistant, School of Information, [C4 Lab](https://c4-lab.github.io/), Syracuse, New York (November 2023 – Present)**
+**Graduate Research Assistant, School of Information, Syracuse, New York (November 2023 – Present)**\
+[C4 Lab](https://c4-lab.github.io/)
 
 - Designing scalable data pipeline to extract and transform 500GB Reddit dataset (100M+ comments/submissions), aiming for 20% faster processing using zstandard compression and parallel processing techniques.
 
@@ -36,7 +37,8 @@ Work experience
 - Presenting initial findings and 500GB Parquet dataset to professor, demonstrating suitability for predictive models with 80%+ accuracy.
 
 
-**Programmer Analyst, [Saeculum Solutions Pvt Ltd](https://saeculumsolutions.com/), Ahmedabad, India (June 2021 – April 2022)**
+**Programmer Analyst, Ahmedabad, India (June 2021 – April 2022)**\
+[Saeculum Solutions Pvt Ltd](https://saeculumsolutions.com/)
 - Built D3.js & React front-end, Driving15% increase in user engagement &10% improvement in data-driven decisions.
 
 - Conducted 10 A/B tests on web features, resulting in a 10% improvement in key metrics such as conversion rate and bounce rate.
@@ -71,4 +73,4 @@ Skills
 
 Projects
 ====
-More info about configuring Academic Pages can be found in [the guide](https://academicpages.github.io/markdown/). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful.
+Click [here](/projects) to explore my projects.
