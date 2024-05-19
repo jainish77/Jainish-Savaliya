@@ -18,7 +18,7 @@ About Me
 🚀 Committed to tackling intricate data challenges and delivering impactful, visualized insights. Previous projects encompassed domains like ecommerce analytics, urban taxi optimization, music streaming pipelines, and healthcare cost prediction. Passionate about leveraging data to solve real-world problems and consistently driving quantifiable improvements of 10-25% in key metrics.
 
 🤝 Possess strong technical skills complemented by excellence in communicating complex findings to diverse stakeholders. Looking to leverage my interdisciplinary expertise to unearth innovative data-driven solutions in a collaborative team environment.
-[](){: .align-right width='30px'}]
+[time_image](https://github.com/jainish77/Jainish-Savaliya.github.io/blob/master/images/Time.png){: .align-right width='30px'}]
 
 ---
 
