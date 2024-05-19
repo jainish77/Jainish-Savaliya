@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hi%F0%9F%91%8B%2C+I'm+Jainish+Savaliya;Welcome+to+my+GitHub+profile;Machine+learning;Data+Science;Business+Analytics&width=500)](https://git.io/typing-svg)"
+title: "[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hello%F0%9F%91%8B%2C+I'm+Jainish+Savaliya;Welcome+to+my+Website+profile;I+am+Machine+learning+,+,Data+Science,+.Business+Analytics+Enthusiast&width=500)](https://git.io/typing-svg)"
 author_profile: true
 redirect_from: 
   - /about/
