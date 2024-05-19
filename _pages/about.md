@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=**Hello**+%F0%9F%91%8B%2C+I'+**Jainish**+**Savaliya**,+**an**+**AI/ML**+**Enthusiast!**;**Welcome**+**to**+**my**+**Website**&width=700)](https://git.io/typing-svg)"
+title: "[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hello+%F0%9F%91%8B%2C+I'm+Jainish+Savaliya,+an+AI/ML+Enthusiast!;Welcome+to+my+Website&width=700)](https://git.io/typing-svg)"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -12,7 +12,7 @@ About Me
 ======
 
 🔍 **Data Scientist** with expertise in machine learning, statistical modeling, and big data engineering. Skilled in orchestrating end-to-end data pipelines, extracting insights from complex datasets, and developing predictive models to drive data-driven decisions. Adept at utilizing cutting-edge tools and technologies including Python, R, SQL, PySpark, TensorFlow, Hadoop, Spark, and cloud platforms like AWS.
-<img src="/images/Time.png" alt="Time Image" width="300" align="right">
+<img src="[/images/Time.png](https://github.com/jainish77/Jainish-Savaliya.github.io/blob/master/images/Time.png)" alt="Time Image" width="300" align="right">
 
 📈 Proven ability to design scalable data solutions, exemplified by developing a high-performance pipeline to process 500GB of Reddit data with 98% accuracy. Experienced in transforming raw data to optimized formats like Parquet, accelerating query performance by 20%. Proficient in applying advanced analytics techniques like ensemble modeling to achieve over 80% predictive accuracy.
 
