@@ -73,4 +73,4 @@ Skills
 
 Projects
 ====
-Click [here]() to explore my projects.
+Click [here](pages/publications.md) to explore my projects.
