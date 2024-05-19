@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "projects"
+title: "Projects"
 permalink: /markdown/
 author_profile: true 
 --- 
