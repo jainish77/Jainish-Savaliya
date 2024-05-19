@@ -12,7 +12,7 @@ main:
    # url: /teaching/    
     
   - title: "Projects"
-    url:/_pages/markdown.md
+    url:/markdown/
         
   #- title: "Blog Posts"
     url: /year-archive/
