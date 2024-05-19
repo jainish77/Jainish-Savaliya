@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-![Illustration](/images/Illustration.jpg){: .align-right width='30px'}
+![Illustration](/images/Time.png){: .align-right width='30px'}
 
 
 About Me
