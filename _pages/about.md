@@ -73,4 +73,4 @@ Skills
 
 Projects
 ====
-Click [here]([pages/publications.md](https://jainish77.github.io/markdown/)) to explore my projects.
+Click [here](https://jainish77.github.io/markdown/) to explore my projects.
