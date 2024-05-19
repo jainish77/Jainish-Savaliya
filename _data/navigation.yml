@@ -1,5 +1,7 @@
 # main links links
 main:
+  - title: "Resume"
+    url: files/Jainish Savaliya Resume Github.pdf
   #- title: "Publications"
     #url: /publications/
 
@@ -15,8 +17,7 @@ main:
   #- title: "Blog Posts"
     url: /year-archive/
     
-  - title: "Resume"
-    url: files/Jainish Savaliya Resume Github.pdf
+
     
   #- title: "Guide"
     url: /markdown/
