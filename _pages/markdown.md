@@ -21,3 +21,4 @@
 - Analyzed healthcare costs using R and statistics, visualized findings for Health Management Organization and reduced costs by 10-15%.
 - Developed regression model accurately predicting individual healthcare costs, enabled proactive high-cost patient management.
 - Utilized advanced analytics techniques and built a predictive model that reduced hospital readmissions by 3-5%, and developed an interactive Shiny app presenting insights, which empowered data-driven decisions and improved operational efficiency by 10-15%.
+ 
