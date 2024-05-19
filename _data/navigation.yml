@@ -15,9 +15,9 @@ main:
     url:/markdown/
         
   #- title: "Blog Posts"
-    url: /year-archive/
+    #url: /year-archive/
     
 
     
   #- title: "Guide"
-    url: /markdown/
+    #url: /markdown/
