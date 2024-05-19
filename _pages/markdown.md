@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 **[Business Intelligence Solutions for Fudge Mart Inc. (Snowflake, DBT, Tableau)](https://github.com/jainish77)**
-- Performed data integration with ELT for 1M+ records, streamlining data accessibility and enhancing order fulfillment efficiency by 24%.
+- Performed data integration with ELT for 1M+ records, streamlining data accessibility and enhancing order fulfillment efficiency by 24%. 
 - Streamlined data transformations and pipeline automation within Snowflake using DBT for fast and accurate data delivery.
 - Leveraged DBT for Snowflake data modeling, created Tableau dashboards visualizing KPIs to optimize order fulfillment.
 
