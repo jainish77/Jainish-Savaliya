@@ -1,8 +1,8 @@
 ---
-layout: archive
-title: "Publications"
-permalink: /publications/
-author_profile: true 
+#layout: archive
+#title: "Publications"
+#permalink: /publications/
+#author_profile: true 
 ---
 
 **[Business Intelligence Solutions for Fudge Mart Inc. (Snowflake, DBT, Tableau)](https://github.com/jainish77)**
