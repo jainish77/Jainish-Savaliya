@@ -24,18 +24,6 @@ About Me
 ---
 
 ### Skills
-
-- **Methodologies:** SDLC, Agile, Waterfall
-- **Programming:** Python, R, SQL, PySpark, Scala  
-- **ML/AI:** TensorFlow, PyTorch, scikit-learn, Linear/Logistic Regression, Decision Trees, Time Series, Ensembles, Deep Learning
-- **Data Engineering:** Spark, Hadoop, Hive, Airflow 
-- **Cloud:** AWS (EC2, Lambda, S3, RDS, etc.), Docker
-- **Databases:** MySQL, PostgreSQL, MongoDB, Cassandra
-- **Visualization:** Tableau, Power BI, Matplotlib, Seaborn  
-- **Tools:** NumPy, Pandas, SciPy, VSCode, PyCharm, Sagemaker, Git
-
-- Certainly! Here's your skills list with logos:
-
 **Methodologies:** SDLC, Agile, Waterfall
 
 **Programming:** ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) ![R](https://img.shields.io/badge/-R-276DC3?style=flat-square&logo=r&logoColor=white) ![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white) ![PySpark](https://img.shields.io/badge/-PySpark-E25A1C?style=flat-square&logo=apache-spark&logoColor=white) ![Scala](https://img.shields.io/badge/-Scala-DC322F?style=flat-square&logo=scala&logoColor=white)
