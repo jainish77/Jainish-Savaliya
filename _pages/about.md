@@ -73,4 +73,4 @@ Skills
 
 Projects
 ====
-Click [here](/_pages/markdown.md) to explore my projects.
+Click [here]() to explore my projects.
