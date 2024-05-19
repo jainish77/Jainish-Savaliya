@@ -3,7 +3,7 @@ main:
   - title: "Resume"
     url: "/files/ResumeGitHub.pdf"
   - title: "Projects"
-    url: /publications/
+    url: /_pages/
 
 #- title: "Resume"
   #url: "/files/ResumeGitHub.pdf"
