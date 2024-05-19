@@ -28,7 +28,7 @@ redirect_from:
 * Go to the [commit list](https://github.com/academicpages/academicpages.github.io/commits/master) (on your repo) to find the last version Github built with Jekyll. 
   * Green check: successful build
   * Orange circle: building
-  * Red X: error
+  * Red X: error 
   * No icon: not built
 
 ## Resources
