@@ -1,9 +1,9 @@
 # main links links
 main:
   - title: "Resume"
-    url: "/files/ResumeGitHub.pdf"
+    url: /files/ResumeGitHub.pdf
   - title: "Projects"
-    url: /_pages/
+    url: /_pages/publications.md/
 
 #- title: "Resume"
   #url: "/files/ResumeGitHub.pdf"
