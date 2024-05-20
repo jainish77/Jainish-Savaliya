@@ -11,10 +11,28 @@ redirect_from:
 About Me
 ======
 
-🔍 **Data Scientist** with expertise in machine learning, statistical modeling, and big data engineering. Skilled in orchestrating end-to-end data pipelines, extracting insights from complex datasets, and developing predictive models to drive data-driven decisions. Adept at utilizing cutting-edge tools and technologies including Python, R, SQL, PySpark, TensorFlow, Hadoop, Spark, and cloud platforms like AWS.
+
+<!--🔍 **Data Scientist** with expertise in machine learning, statistical modeling, and big data engineering. Skilled in orchestrating end-to-end data pipelines, extracting insights from complex datasets, and developing predictive models to drive data-driven decisions. Adept at utilizing cutting-edge tools and technologies including Python, R, SQL, PySpark, TensorFlow, Hadoop, Spark, and cloud platforms like AWS.
 📈 Proven ability to design scalable data solutions, exemplified by developing a high-performance pipeline to process 500GB of Reddit data with 98% accuracy. Experienced in transforming raw data to optimized formats like Parquet, accelerating query performance by 20%. Proficient in applying advanced analytics techniques like ensemble modeling to achieve over 80% predictive accuracy.\
 🚀 Committed to tackling intricate data challenges and delivering impactful, visualized insights. Previous projects encompassed domains like ecommerce analytics, urban taxi optimization, music streaming pipelines, and healthcare cost prediction. Passionate about leveraging data to solve real-world problems and consistently driving quantifiable improvements of 10-25% in key metrics.
-🤝 Possess strong technical skills complemented by excellence in communicating complex findings to diverse stakeholders. Looking to leverage my interdisciplinary expertise to unearth innovative data-driven solutions in a collaborative team environment.
+🤝 Possess strong technical skills complemented by excellence in communicating complex findings to diverse stakeholders. Looking to leverage my interdisciplinary expertise to unearth innovative data-driven solutions in a collaborative team environment.-->
+
+
+<!--## Data Scientist -->
+
+- **Expertise:** Machine Learning, Big Data Engineering 
+- **Skills:** Python, R, SQL, PySpark, TensorFlow, Hadoop, Spark, AWS
+- **Accomplishments:**
+   - Designed scalable 500GB Reddit data pipeline with 98% accuracy
+   - Optimized data formats (Parquet) for 20% faster querying
+   - Proficient in advanced analytics (ensemble modeling, 80%+ predictive accuracy)
+- **Experience:** 
+   - Delivered visualized insights across e-commerce, urban mobility, music streaming, healthcare
+   - Drove 10-25% metric improvements through data-driven solutions
+- **Strengths:**
+   - Strong technical skills 
+   - Excellent at communicating complex findings
+- **Goal:** Seeking collaborative role to innovate with interdisciplinary expertise
 
 Work experience
 ======
@@ -66,3 +84,10 @@ Skills
 Projects
 ====
 Click [here](https://jainish77.github.io/Jainish-Savaliya.github.io/markdown/) to explore my projects. 
+
+
+
+[![AWS Solutions Architect - Associate](https://images.credly.com/size/110x110/images/8b31b3de-94f0-48e5-a0f1-b8909cbfc88d/AWS-Solutions-Architect-Associate-2020.png)](https://www.credly.com/badges/96b584c0-52e2-4263-b607-eb3be97fbc6a)
+[![Snowflake Hands on Essentials - Data Warehouse](https://images.credly.com/size/110x110/images/a5dcf1f2-4c06-4b1f-baa4-799b1a5baa1f/Snowflake-Essentials-2020.png)](https://www.credly.com/badges/554b5cb3-2b17-4fe4-b09f-58e682f8f08e)
+[![Excel Associate (2019)](https://images.credly.com/size/110x110/images/c8b60f08-229d-4f15-bbf6-5ff378ea2f8d/MOS-Excel-Associate-2019.png)](https://www.credly.com/badges/2a11f6c7-23cb-450b-bf68-28542ef591bf)
+
