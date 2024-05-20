@@ -18,7 +18,7 @@ About Me
 🤝 Possess strong technical skills complemented by excellence in communicating complex findings to diverse stakeholders. Looking to leverage my interdisciplinary expertise to unearth innovative data-driven solutions in a collaborative team environment.-->
 
 
-<!--## Data Scientist -->
+<!--## Data Scientist 
 
 - **Expertise:** Machine Learning, Big Data Engineering 
 - **Skills:** Python, R, SQL, PySpark, TensorFlow, Hadoop, Spark, AWS
@@ -32,7 +32,21 @@ About Me
 - **Strengths:**
    - Strong technical skills 
    - Excellent at communicating complex findings
-- **Goal:** Seeking collaborative role to innovate with interdisciplinary expertise
+- **Goal:** Seeking collaborative role to innovate with interdisciplinary expertise -->
+
+**EDUCATION**
+
+**Syracuse University,New York**
+(August 2022 - May 2024)
+- Master of Science | Information Systems | Advanced Certification in Data Science
+- GPA: 3.7/4.0
+- **Coursework:** Applied Machine Learning, Data Warehousing, Data Analytics & Decision Making, Database Management Systems
+
+**Dharmsinh Desai University, India**
+(July 2017 - May 2021)
+- Bachelor of Technology | Instrumentation and Control Engineering
+- GPA: 3.2/4.0
+- **Coursework:** Microprocessor & Micro-Controller, Mathematics, Advanced C Programming, Robotics Engineering
 
 Work experience
 ======
@@ -87,7 +101,7 @@ Click [here](https://jainish77.github.io/Jainish-Savaliya.github.io/markdown/) t
 
 
 
-[![AWS Solutions Architect - Associate](https://images.credly.com/size/110x110/images/8b31b3de-94f0-48e5-a0f1-b8909cbfc88d/AWS-Solutions-Architect-Associate-2020.png)](https://www.credly.com/badges/96b584c0-52e2-4263-b607-eb3be97fbc6a)
+<!--[![AWS Solutions Architect - Associate](https://images.credly.com/size/110x110/images/8b31b3de-94f0-48e5-a0f1-b8909cbfc88d/AWS-Solutions-Architect-Associate-2020.png)](https://www.credly.com/badges/96b584c0-52e2-4263-b607-eb3be97fbc6a)
 [![Snowflake Hands on Essentials - Data Warehouse](https://images.credly.com/size/110x110/images/a5dcf1f2-4c06-4b1f-baa4-799b1a5baa1f/Snowflake-Essentials-2020.png)](https://www.credly.com/badges/554b5cb3-2b17-4fe4-b09f-58e682f8f08e)
 [![Excel Associate (2019)](https://images.credly.com/size/110x110/images/c8b60f08-229d-4f15-bbf6-5ff378ea2f8d/MOS-Excel-Associate-2019.png)](https://www.credly.com/badges/2a11f6c7-23cb-450b-bf68-28542ef591bf)
 
