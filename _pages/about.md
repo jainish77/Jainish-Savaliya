@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=HELLO+%F0%9F%91%8B%2C+I+AM+JAINISH+(AI/ML+Enthusiast!);WELCOME+TO+MY+WEBSITEe&width=700)](https://git.io/typing-svg)"
+title: "[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=HELLO+%F0%9F%91%8B%2C+I+AM+JAINISH+(AI/ML+ENTHUSIAST)!;WELCOME+TO+MY+WEBSITE!&width=700)](https://git.io/typing-svg)"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
