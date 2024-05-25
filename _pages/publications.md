@@ -4,6 +4,17 @@ title: "Projects"
 permalink: /markdown/
 author_profile: true 
 --- 
+
+**[Natural Language Q&A Bot for SQL Databases Using LangChain](https://github.com/jainish77/Building-a-Natural-Language-Q-A-Bot-for-SQL-Databases-Using-LangChain)**
+![LangChain](https://img.shields.io/badge/LangChain-333333?style=flat&logoColor=white)
+![Google's Palm model](https://img.shields.io/badge/Google's%20Palm%20model-4285F4?style=flat&logo=google&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logoColor=white)
+![HuggingFace embeddings](https://img.shields.io/badge/HuggingFace%20embeddings-FFD000?style=flat&logo=huggingface&logoColor=white)
+
+- Developed a Q&A bot for a T-shirt retailer's SQL database using LangChain and Google's Palm model, automating SQL query generation and increasing query speed by 40%.
+- Created a Streamlit interface with HuggingFace embeddings, enhancing user interaction and reducing data retrieval time by 50%.
+- Enabled real-time data analysis, increasing operational efficiency by 30% and sales insights by 20%.
+
 **[Spotify ETL Data Pipeline using Airflow](https://github.com/jainish77/Spotify-ETL)**
 ![Airflow](https://img.shields.io/badge/Airflow-017CEE?style=flat&logo=Apache%20Airflow&logoColor=white) ![AWS EC2](https://img.shields.io/badge/AWS%20EC2-FF9900?style=flat&logo=Amazon%20AWS&logoColor=white)
 - Orchestrated a scalable Spotify end-to-end data pipeline using Apache Airflow, leveraging the Spotify API to extract and transform approximately 100MB JSON to CSV daily, enhancing downstream analytics accessibility.
