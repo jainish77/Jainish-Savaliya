@@ -1,3 +1,4 @@
+<!--
 ---
 permalink: /
 title: "[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=HELLO+%F0%9F%91%8B%2C+I+AM+JAINISH+(AI/ML+ENTHUSIAST)!;WELCOME+TO+MY+WEBSITE!&width=700)](https://git.io/typing-svg)"
@@ -7,6 +8,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
+-->
 
 About Me
 ======
