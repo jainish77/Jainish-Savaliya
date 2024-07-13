@@ -50,10 +50,10 @@ redirect_from:
 - GPA: 3.2/4.0
 - **Coursework:** Microprocessor & Micro-Controller, Mathematics, Advanced C Programming, Robotics Engineering -->
 
-Work experience
+<!-- Work experience
 ======
 
-## Graduate Research Assistant, School of Information, New York (November 2023 – Present)
+ ## Graduate Research Assistant, School of Information, New York (November 2023 – Present)
 [C4 Lab](https://c4-lab.github.io/)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white) ![Apache Parquet](https://img.shields.io/badge/Apache%20Parquet-AC6E2D?style=flat&logo=apache&logoColor=white) ![Apache Airflow](https://img.shields.io/badge/Apache%20Airflow-017CEE?style=flat&logo=Apache%20Airflow&logoColor=white)
 
@@ -70,7 +70,39 @@ Work experience
 - Built D3.js & React front-end, Driving15% increase in user engagement &10% improvement in data-driven decisions.
 - Conducted 10 A/B tests on web features, resulting in a 10% improvement in key metrics such as conversion rate and bounce rate.
 - Collaborated cross-functionally to define data requirements, design analytics pipelines, and improve data-driven decisions by 20%.
-- Presented 20 data analysis findings to stakeholders, influencing 50% of product roadmap decisions and marketing strategies.
+- Presented 20 data analysis findings to stakeholders, influencing 50% of product roadmap decisions and marketing strategies. -->
+
+# Work Experience
+======
+
+## Chat Bot Developer, Syracuse University, New York (June 2024 – Present)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white) ![OpenAI](https://img.shields.io/badge/OpenAI-00A3E0?style=flat&logo=openai&logoColor=white) ![Databricks](https://img.shields.io/badge/Databricks-FF9B00?style=flat&logo=databricks&logoColor=white)
+
+- Improved setup efficiency by 40%, reducing onboarding time by 30% using Streamlit for deployment.
+- Implemented short-term memory with OpenAI's LLM, enhancing bot response coherence by 50%.
+- Created vector databases for Q&A bots, achieving 98% accuracy and reducing manual handling by 60%.
+
+## Data Analyst, iConsult Collaborative, New York (September 2023 – June 2024)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) ![Delta Lake](https://img.shields.io/badge/Delta%20Lake-00B2A9?style=flat&logo=apache&logoColor=white) ![Snowflake](https://img.shields.io/badge/Snowflake-00B2E2?style=flat&logo=snowflake&logoColor=white)
+
+- Enhanced sales forecasting accuracy by 15%, leading to a 20% revenue growth through model tracking.
+- Managed ETL pipelines, integrating data from 50+ sources while leveraging Snowflake for optimized querying.
+- Boosted processing efficiency by 60% through performance bottleneck analysis.
+
+## Data Engineer, C4 Lab, New York (November 2023 – May 2024)
+![Spark](https://img.shields.io/badge/Spark-E25A1C?style=flat&logo=apache-spark&logoColor=white) ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white)
+
+- Designed a Spark pipeline for a 500GB Reddit dataset, achieving 20% faster processing with zstandard.
+- Parsed 150M JSON records with 95% data quality using PySpark, optimizing storage with Apache Parquet.
+- Validated data integrity through SQL queries, ensuring high accuracy for machine learning models.
+
+## Programmer Analyst, Saeculum Solutions Pvt Ltd, India (June 2021 – April 2022)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F20?style=flat&logo=tensorflow&logoColor=white)
+
+- Engineered FastAPI-based APIs for recommendation systems, enhancing user engagement by 15%.
+- Conducted A/B tests, optimizing key metrics such as conversion and bounce rates significantly.
+- Led cross-functional teams to define data requirements, impacting 50% of product roadmap decisions.
+
 
 
 
