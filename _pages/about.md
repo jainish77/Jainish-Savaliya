@@ -73,7 +73,7 @@ redirect_from:
 - Presented 20 data analysis findings to stakeholders, influencing 50% of product roadmap decisions and marketing strategies. -->
 
 # Work Experience
-======
+
 
 ## Chat Bot Developer, Syracuse University, New York (June 2024 – Present)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white) ![OpenAI](https://img.shields.io/badge/OpenAI-00A3E0?style=flat&logo=openai&logoColor=white) ![Databricks](https://img.shields.io/badge/Databricks-FF9B00?style=flat&logo=databricks&logoColor=white)
