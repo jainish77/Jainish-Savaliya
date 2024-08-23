@@ -15,7 +15,7 @@ redirect_from:
 
 - Data Scientist with expertise in machine learning, statistical modeling, and big data engineering. Skilled in orchestrating end-to-end data pipelines, extracting insights from complex datasets, and developing predictive models to drive data-driven decisions. Adept at utilizing cutting-edge tools and technologies including Python, R, SQL, PySpark, TensorFlow, Hadoop, Spark, and cloud platforms like AWS.
 - Proven ability to design scalable data solutions, exemplified by developing a high-performance pipeline to process 500GB of Reddit data with 98% accuracy.
-  <img  src="https://github.com/jainish77/Jainish-Savaliya.github.io/blob/master/images/Illustation.jpg" alt="Data Scientist Illustration" width="300" align="right" style="margin: 0 0 10px 10px;" />
+  
   Experienced in transforming raw data to optimized formats like Parquet, accelerating query performance by 20%. Proficient in applying advanced analytics techniques like ensemble modeling to achieve over 80% predictive accuracy. 
 - Committed to tackling intricate data challenges and delivering impactful, visualized insights. Previous projects encompassed domains like ecommerce analytics, urban taxi optimization, music streaming pipelines, and healthcare cost prediction. Passionate about leveraging data to solve real-world problems and consistently driving quantifiable improvements of 10-25% in key metrics.
 - Possess strong technical skills complemented by excellence in communicating complex findings to diverse stakeholders. Looking to leverage my interdisciplinary expertise to unearth innovative data-driven solutions in a collaborative team environment.
@@ -23,24 +23,6 @@ redirect_from:
 
 
 
-
-
-
-
-
-- <p>
-  
-  - Data Scientist with expertise in machine learning, statistical modeling, and big data engineering. Skilled in orchestrating end-to-end data pipelines, extracting insights from complex datasets, and developing predictive models to drive data-driven decisions. Adept at utilizing cutting-edge tools and technologies including Python, R, SQL, PySpark, TensorFlow, Hadoop, Spark, and cloud platforms like AWS.
-</p>
-<p>
-  - Proven ability to design scalable data solutions, exemplified by developing a high-performance pipeline to process 500GB of Reddit data with 98% accuracy. <img src="../images/Illustation.jpg" alt="Data Scientist Illustration" width="300" style="float: left; margin: 0 10px 10px 0;" />Experienced in transforming raw data to optimized formats like Parquet, accelerating query performance by 20%. Proficient in applying advanced analytics techniques like ensemble modeling to achieve over 80% predictive accuracy.
-</p>
-<p>
-  - Committed to tackling intricate data challenges and delivering impactful, visualized insights. Previous projects encompassed domains like ecommerce analytics, urban taxi optimization, music streaming pipelines, and healthcare cost prediction. Passionate about leveraging data to solve real-world problems and consistently driving quantifiable improvements of 10-25% in key metrics.
-</p>
-<p>
-  - Possess strong technical skills complemented by excellence in communicating complex findings to diverse stakeholders. Looking to leverage my interdisciplinary expertise to unearth innovative data-driven solutions in a collaborative team environment.
-</p>
 
 
 
