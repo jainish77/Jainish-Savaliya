@@ -12,9 +12,9 @@ title                    : "Jainish's Homepage"
 title_separator          : "-"
 name                     : &name "Jainish Savaliya"
 description              : &description "personal description"
-url                      : Jainish-Savaliya.github.io/Jainish-Savaliya.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
-baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "https://jainish77.github.io/Jainish-Savaliya.github.io"
+URL                      : "https://jainish77.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+baseurl                  : "/Jainish-Savaliya.github.io" # the subpath of your site, e.g. "/blog"
+repository               : "https://github.com/jainish77/Jainish-Savaliya.github.io"
 
 
 # Site Author - The following control what appear as part of the author content on the side bar.
