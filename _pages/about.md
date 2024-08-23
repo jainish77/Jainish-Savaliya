@@ -110,7 +110,7 @@ Designed and executed Spark jobs with PySpark, improving data processing perform
 Automated workflows with SLURM, optimizing job scheduling and resource allocation, reducing manual intervention by 30%.
 Validated data integrity with Spark SQL, ensuring 98% accuracy and high reliability for further analysis and machine learning.
 
-### Software Data Engineer, Saeculum Solutions Pvt Ltd, Gujarat, India (June 2020 – July 2022)
+### Software Data Engineer, Saeculum Solutions Pvt Ltd (June 2020 – July 2022)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white) ![Flask](https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white) ![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white) ![CI/CD](https://img.shields.io/badge/CI/CD-FF6C00?style=flat&logo=circleci&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
 
 Developed and deployed RESTful APIs for recommendation systems, increasing conversion rate by 20% and click-through rate by 18%.
