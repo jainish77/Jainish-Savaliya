@@ -13,12 +13,11 @@ redirect_from:
 
 
 
-- Data Scientist with expertise in machine learning, statistical modeling, and big data engineering. Skilled in orchestrating end-to-end data pipelines, extracting insights from complex datasets, and developing predictive models to drive data-driven decisions. Adept at utilizing cutting-edge tools and technologies including Python, R, SQL, PySpark, TensorFlow, Hadoop, Spark, and cloud platforms like AWS.
-- Proven ability to design scalable data solutions, exemplified by developing a high-performance pipeline to process 500GB of Reddit data with 98% accuracy.
-  
-  Experienced in transforming raw data to optimized formats like Parquet, accelerating query performance by 20%. Proficient in applying advanced analytics techniques like ensemble modeling to achieve over 80% predictive accuracy. 
-- Committed to tackling intricate data challenges and delivering impactful, visualized insights. Previous projects encompassed domains like ecommerce analytics, urban taxi optimization, music streaming pipelines, and healthcare cost prediction. Passionate about leveraging data to solve real-world problems and consistently driving quantifiable improvements of 10-25% in key metrics.
-- Possess strong technical skills complemented by excellence in communicating complex findings to diverse stakeholders. Looking to leverage my interdisciplinary expertise to unearth innovative data-driven solutions in a collaborative team environment.
+Data Scientist with expertise in machine learning, statistical modeling, and big data engineering. Skilled in orchestrating end-to-end data pipelines, extracting insights from complex datasets, and developing predictive models to drive data-driven decisions. Adept at utilizing cutting-edge tools and technologies including Python, R, SQL, PySpark, TensorFlow, Hadoop, Spark, and cloud platforms like AWS.
+Proven ability to design scalable data solutions, exemplified by developing a high-performance pipeline to process 500GB of Reddit data with 98% accuracy.
+Experienced in transforming raw data to optimized formats like Parquet, accelerating query performance by 20%. Proficient in applying advanced analytics techniques like ensemble modeling to achieve over 80% predictive accuracy. 
+Committed to tackling intricate data challenges and delivering impactful, visualized insights. Previous projects encompassed domains like ecommerce analytics, urban taxi optimization, music streaming pipelines, and healthcare cost prediction. Passionate about leveraging data to solve real-world problems and consistently driving quantifiable improvements of 10-25% in key metrics.
+Possess strong technical skills complemented by excellence in communicating complex findings to diverse stakeholders. Looking to leverage my interdisciplinary expertise to unearth innovative data-driven solutions in a collaborative team environment.
 
 
 
@@ -89,37 +88,36 @@ redirect_from:
 
 ### Research Analyst, Syracuse University, New York, USA (June 2024 – Present)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white) ![OpenAI](https://img.shields.io/badge/OpenAI-00A3E0?style=flat&logo=openai&logoColor=white) ![HuggingFace](https://img.shields.io/badge/HuggingFace-FF4F5C?style=flat&logo=huggingface&logoColor=white) ![Databricks](https://img.shields.io/badge/Databricks-FF9B00?style=flat&logo=databricks&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
-
-- Enhanced e-commerce chatbot accuracy to 95%, boosting user engagement by 40% and Net Promoter Score (NPS) by 20%.
-- Optimized response coherence with OpenAI's LLM, boosting conversion rate by 30% and reducing churn rate by 15%.
-- Developed vector databases and function-based bots using HuggingFace embeddings for personalized shopping experiences, elevating Customer Satisfaction (CSAT) by 25% and increasing revenue per user (ARPU) by 18%.
-- Created a Streamlit interface and implemented FastAPI, cutting data retrieval time by 50% and improving system scalability.
+Enhanced e-commerce chatbot accuracy to 95%, boosting user engagement by 40% and Net Promoter Score (NPS) by 20%.
+Optimized response coherence with OpenAI's LLM, boosting conversion rate by 30% and reducing churn rate by 15%.
+Developed vector databases and function-based bots using HuggingFace embeddings for personalized shopping experiences, elevating Customer Satisfaction (CSAT) by 25% and increasing revenue per user (ARPU) by 18%.
+Created a Streamlit interface and implemented FastAPI, cutting data retrieval time by 50% and improving system scalability.
 
 ### Data Analyst, iConsult Collaborative, New York (September 2023 – June 2024)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) ![Databricks](https://img.shields.io/badge/Databricks-FF9B00?style=flat&logo=databricks&logoColor=white) ![Snowflake](https://img.shields.io/badge/Snowflake-00B2E2?style=flat&logo=snowflake&logoColor=white) ![MLflow](https://img.shields.io/badge/MLflow-4D77C4?style=flat&logo=mlflow&logoColor=white) ![Apache Spark](https://img.shields.io/badge/Apache%20Spark-E25A1C?style=flat&logo=apache-spark&logoColor=white) ![Kafka](https://img.shields.io/badge/Kafka-231F20?style=flat&logo=apache-kafka&logoColor=white)
 
-- Improved sales forecasting by 15% using ARIMA and XGBoost, boosting Average Order Value (AOV) by 10% across 5 categories.
-- Integrated data from 10 sources using Databricks, improving inventory accuracy by 20%.
-- Optimized data processing with Apache Spark, reducing report time by 60% for daily insights.
-- Used Kafka for targeted marketing, increasing email open rates by 15%, Conversion Rates by 8%, and Customer Retention by 5%.
+Improved sales forecasting by 15% using ARIMA and XGBoost, boosting Average Order Value (AOV) by 10% across 5 categories.
+Integrated data from 10 sources using Databricks, improving inventory accuracy by 20%.
+Optimized data processing with Apache Spark, reducing report time by 60% for daily insights.
+Used Kafka for targeted marketing, increasing email open rates by 15%, Conversion Rates by 8%, and Customer Retention by 5%.
 
 ### Data Engineer, C4 Lab, New York (November 2022 – May 2023)
 ![Spark](https://img.shields.io/badge/Spark-E25A1C?style=flat&logo=apache-spark&logoColor=white) ![zstandard](https://img.shields.io/badge/zstandard-4D77C4?style=flat&logo=zstandard&logoColor=white) ![PySpark](https://img.shields.io/badge/PySpark-F7A700?style=flat&logo=apache-spark&logoColor=white) ![SLURM](https://img.shields.io/badge/SLURM-FF6F00?style=flat&logo=slurm&logoColor=white) ![Spark SQL](https://img.shields.io/badge/Spark%20SQL-E25A1C?style=flat&logo=apache-spark&logoColor=white)
 
-- Engineered a Spark-based ETL pipeline for 2 TB data, achieving a 20% boost in processing performance with optimized data handling.
-- Implemented Python scripts using zstandard compression, enhancing decompression efficiency and integration with Apache Spark.
-- Designed and executed Spark jobs with PySpark, improving data processing performance by 20% and optimizing data storage.
-- Automated workflows with SLURM, optimizing job scheduling and resource allocation, reducing manual intervention by 30%.
-- Validated data integrity with Spark SQL, ensuring 98% accuracy and high reliability for further analysis and machine learning.
+Engineered a Spark-based ETL pipeline for 2 TB data, achieving a 20% boost in processing performance with optimized data handling.
+Implemented Python scripts using zstandard compression, enhancing decompression efficiency and integration with Apache Spark.
+Designed and executed Spark jobs with PySpark, improving data processing performance by 20% and optimizing data storage.
+Automated workflows with SLURM, optimizing job scheduling and resource allocation, reducing manual intervention by 30%.
+Validated data integrity with Spark SQL, ensuring 98% accuracy and high reliability for further analysis and machine learning.
 
 ### Software Data Engineer, Saeculum Solutions Pvt Ltd, Gujarat, India (June 2020 – July 2022)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white) ![Flask](https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white) ![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white) ![CI/CD](https://img.shields.io/badge/CI/CD-FF6C00?style=flat&logo=circleci&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
 
-- Developed and deployed RESTful APIs for recommendation systems, increasing conversion rate by 20% and click-through rate by 18%.
-- Implemented secure authentication and API request handling, significantly reducing churn rate by 15%.
-- Engineered and maintained a full-stack CRUD application using React and Flask, improving customer satisfaction scores by 10%.
-- Implemented CI/CD pipelines using GitHub Actions and Docker, cutting deployment time by 40% and enhancing system reliability.
-- Built scalable data pipelines on AWS, optimizing revenue per user (ARPU) by 15% and supporting data-driven product roadmap decisions.
+Developed and deployed RESTful APIs for recommendation systems, increasing conversion rate by 20% and click-through rate by 18%.
+Implemented secure authentication and API request handling, significantly reducing churn rate by 15%.
+Engineered and maintained a full-stack CRUD application using React and Flask, improving customer satisfaction scores by 10%.
+Implemented CI/CD pipelines using GitHub Actions and Docker, cutting deployment time by 40% and enhancing system reliability.
+Built scalable data pipelines on AWS, optimizing revenue per user (ARPU) by 15% and supporting data-driven product roadmap decisions.
 
 
 
