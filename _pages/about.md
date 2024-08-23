@@ -11,6 +11,9 @@ redirect_from:
 
 ![Data Scientist Illustration](https://media.licdn.com/dms/image/v2/C4D12AQGD_su1k14bYA/article-cover_image-shrink_600_2000/article-cover_image-shrink_600_2000/0/1583217311227?e=1729728000&v=beta&t=FGnwE-u0SqMXlQRE33v2LkWvWcAou6AsDdrffUG4lvQ)
 
+![Data Scientist Illustration](https://github.com/jainish77/Jainish-Savaliya.github.io/raw/master/images/Illustation.jpg)
+
+
 
 
 
