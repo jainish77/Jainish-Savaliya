@@ -169,10 +169,10 @@ Built scalable data pipelines on AWS, optimizing revenue per user (ARPU) by 15% 
 
 <div style="display: flex; justify-content: space-around; flex-wrap: wrap;">
   <img src="https://d1.awsstatic.com/training-and-certification/certification-badges/AWS-Certified-Solutions-Architect-Associate_badge.3419559c682629072f1eb968d59dea0741772c0f.png" alt="AWS Certified Solutions Architect - Associate" width="120" height="120"/>
-  <img src="https://images.credly.com/images/d0790dc7-5127-4262-a492-1b60030b0114/MOS_Excel.png" alt="Microsoft Office Specialist Excel" width="120" height="120"/>
-  <img src="https://images.credly.com/size/680x680/images/83691e1f-fddf-45ce-b6a2-a28529838223/image.png" alt="Image 1" width="120" height="120"/>
-  <img src="https://www.databricks.com/sites/default/files/2021/12/lakehouse-fundamentals.png" alt="Image 2" width="120" height="120"/>
-  <img src="https://images.credly.com/size/680x680/images/97fcc871-a820-4143-adf2-62517026cb58/Essentials-Data-Warehouse_2x.png" alt="Image 3" width="120" height="120"/>
+  <img src="https://images.credly.com/images/d0790dc7-5127-4262-a492-1b60030b0114/MOS_Excel.png" alt="Microsoft Office Specialist Excel" width="90" height="90"/>
+  <img src="https://images.credly.com/size/680x680/images/83691e1f-fddf-45ce-b6a2-a28529838223/image.png" alt="Image 1" width="90" height="90"/>
+  <img src="https://www.databricks.com/sites/default/files/2021/12/lakehouse-fundamentals.png" alt="Image 2" width="90" height="90"/>
+  <img src="https://images.credly.com/size/680x680/images/97fcc871-a820-4143-adf2-62517026cb58/Essentials-Data-Warehouse_2x.png" alt="Image 3" width="90" height="90"/>
 </div>
 
 
