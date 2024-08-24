@@ -120,6 +120,7 @@ Built scalable data pipelines on AWS, optimizing revenue per user (ARPU) by 15% 
 ---
 Education
 ===
+
 <table>
   <tr>
     <td align="center">
@@ -145,10 +146,11 @@ Education
 
 
 
----
 
+---
 Skills
-====
+===
+
 
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) ![R](https://img.shields.io/badge/-R-276DC3?style=flat-square&logo=r&logoColor=white) ![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white) ![PySpark](https://img.shields.io/badge/-PySpark-E25A1C?style=flat-square&logo=apache-spark&logoColor=white) ![Scala](https://img.shields.io/badge/-Scala-DC322F?style=flat-square&logo=scala&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white) ![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/-scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white) 
@@ -163,13 +165,16 @@ Skills
 
 
 
+
+
 <div style="display: flex; justify-content: space-around; flex-wrap: wrap;">
-  <img src="https://d1.awsstatic.com/training-and-certification/certification-badges/AWS-Certified-Solutions-Architect-Associate_badge.3419559c682629072f1eb968d59dea0741772c0f.png" alt="AWS Certified Solutions Architect - Associate" width="150"/>
-  <img src="https://images.credly.com/images/d0790dc7-5127-4262-a492-1b60030b0114/MOS_Excel.png" alt="Microsoft Office Specialist Excel" width="150"/>
-  <img src="https://images.credly.com/size/680x680/images/83691e1f-fddf-45ce-b6a2-a28529838223/image.png" alt="Image 1" width="150"/>
-  <img src="https://www.databricks.com/sites/default/files/2021/12/lakehouse-fundamentals.png" alt="Image 2" width="150"/>
-  <img src="https://images.credly.com/size/680x680/images/97fcc871-a820-4143-adf2-62517026cb58/Essentials-Data-Warehouse_2x.png" alt="Image 3" width="150"/>
+  <img src="https://d1.awsstatic.com/training-and-certification/certification-badges/AWS-Certified-Solutions-Architect-Associate_badge.3419559c682629072f1eb968d59dea0741772c0f.png" alt="AWS Certified Solutions Architect - Associate" width="120"/>
+  <img src="https://images.credly.com/images/d0790dc7-5127-4262-a492-1b60030b0114/MOS_Excel.png" alt="Microsoft Office Specialist Excel" width="120"/>
+  <img src="https://images.credly.com/size/680x680/images/83691e1f-fddf-45ce-b6a2-a28529838223/image.png" alt="Image 1" width="120"/>
+  <img src="https://www.databricks.com/sites/default/files/2021/12/lakehouse-fundamentals.png" alt="Image 2" width="120"/>
+  <img src="https://images.credly.com/size/680x680/images/97fcc871-a820-4143-adf2-62517026cb58/Essentials-Data-Warehouse_2x.png" alt="Image 3" width="120"/>
 </div>
+
 
 
 
