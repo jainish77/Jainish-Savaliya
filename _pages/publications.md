@@ -5,6 +5,39 @@ permalink: /markdown/
 author_profile: true 
 --- 
 
+**[Cards Image Dataset Classification (Python, PyTorch, EfficientNet-B0)](https://github.com/jainish77/Card-Classification-with-Pytorch)**
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white) 
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=PyTorch&logoColor=white) 
+![EfficientNet-B0](https://img.shields.io/badge/EfficientNet--B0-4C5B5C?style=flat&logoColor=white)
+
+Developed a deep learning model using EfficientNet-B0, achieving a 95% accuracy on the test set and reducing validation loss by 30%. Implemented a robust preprocessing pipeline and prediction visualization, leading to a 20% improvement in classification efficiency and a 15% boost in model interpretability.
+
+**[Movie Recommendation System (Python, Scikit-learn)](https://github.com/jainish77/Movie-Recommendation-System)**
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white) 
+![Scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
+
+Developed and optimized a movie recommendation system using content-based and collaborative filtering techniques, leading to a 20% increase in Click-Through Rate (CTR) and a 15% boost in User Engagement. Implemented feature engineering and similarity metrics to improve recommendation accuracy, resulting in a 25% rise in average watch time and an increase in returning users by 10%.
+
+**[Credit Card Fraud Detection (Python, XGBoost, Random Forest, Neural Networks, SMOTE, Scikit-learn, AUC)](https://github.com/jainish77/Credit-Card-Fraud-Detection)**
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white) 
+![XGBoost](https://img.shields.io/badge/XGBoost-EC912D?style=flat&logoColor=white) 
+![Random Forest](https://img.shields.io/badge/Random%20Forest-008000?style=flat&logoColor=white) 
+![SMOTE](https://img.shields.io/badge/SMOTE-000000?style=flat&logoColor=white)
+
+Developed and compared XGBoost, Neural Network, and Random Forest models, achieving 85% recall and 83% precision. Used SMOTE to address data imbalance, resulting in an AUC of 0.90, a 12% increase in the Perfect Order Index, and a 5% boost in customer satisfaction (CSAT).
+
+**[A/B Testing to Reduce Early Udacity Course Cancellation](https://github.com/jainish77/AB-Testing-Course-Cancellation)**
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white) 
+![A/B Testing](https://img.shields.io/badge/A%2FB%20Testing-0072C6?style=flat&logoColor=white)
+
+Conducted an A/B test to determine if asking about weekly time commitment before a free trial reduced early cancellations, resulting in a 2.05% drop in Gross Conversion (p-value = 0.0026) but no significant change in Net Conversion. Metrics like click-through rate and retention rate were similar across groups, leading to the recommendation to explore alternative strategies.
+
+
+
+
+
+
+
 **[Natural Language Q&A Bot for SQL Databases Using LangChain](https://github.com/jainish77/Building-a-Natural-Language-Q-A-Bot-for-SQL-Databases-Using-LangChain)**
 ![LangChain](https://img.shields.io/badge/LangChain-333333?style=flat&logoColor=white)
 ![Google's Palm model](https://img.shields.io/badge/Google's%20Palm%20model-4285F4?style=flat&logo=google&logoColor=white)
