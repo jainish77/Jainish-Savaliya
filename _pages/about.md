@@ -13,11 +13,9 @@ redirect_from:
 
 
 
-Data Scientist with expertise in machine learning, statistical modeling, and big data engineering. Skilled in orchestrating end-to-end data pipelines, extracting insights from complex datasets, and developing predictive models to drive data-driven decisions. Adept at utilizing cutting-edge tools and technologies including Python, R, SQL, PySpark, TensorFlow, Hadoop, Spark, and cloud platforms like AWS.
-Proven ability to design scalable data solutions, exemplified by developing a high-performance pipeline to process 500GB of Reddit data with 98% accuracy.
-Experienced in transforming raw data to optimized formats like Parquet, accelerating query performance by 20%. Proficient in applying advanced analytics techniques like ensemble modeling to achieve over 80% predictive accuracy. 
-Committed to tackling intricate data challenges and delivering impactful, visualized insights. Previous projects encompassed domains like ecommerce analytics, urban taxi optimization, music streaming pipelines, and healthcare cost prediction. Passionate about leveraging data to solve real-world problems and consistently driving quantifiable improvements of 10-25% in key metrics.
-Possess strong technical skills complemented by excellence in communicating complex findings to diverse stakeholders. Looking to leverage my interdisciplinary expertise to unearth innovative data-driven solutions in a collaborative team environment.
+
+
+As a Data Scientist, I excel in transforming complex data into actionable insights. My expertise spans machine learning, statistical modeling, and big data engineering, using tools like Python, R, and AWS. I've developed high-performance pipelines processing 500GB datasets with 98% accuracy and optimized query performance by 20%. My predictive models consistently achieve 80%+ accuracy across diverse domains. I'm passionate about solving real-world problems with data, driving 10-25% improvements in key metrics. Combining technical skills with strong communication, I deliver impactful solutions that align with business objectives.
 
 
 
@@ -119,6 +117,26 @@ Engineered and maintained a full-stack CRUD application using React and Flask, i
 Implemented CI/CD pipelines using GitHub Actions and Docker, cutting deployment time by 40% and enhancing system reliability.
 Built scalable data pipelines on AWS, optimizing revenue per user (ARPU) by 15% and supporting data-driven product roadmap decisions.
 
+---
+Education
+===
+<table>
+  <tr>
+    <td align="center">
+      <img src="https://d2lk14jtvqry1q.cloudfront.net/media/large_1130_164d345a84_6b57c47b83.png" alt="Dharamsinh Desai University" width="200"/>
+      <br/>
+      <span>B.Tech in Engineering</span>
+    </td>
+    <td align="center">
+      <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Syracuse_University_Horizontal_2Line_ORANGE_RGB.svg/1024px-Syracuse_University_Horizontal_2Line_ORANGE_RGB.svg.png" alt="Syracuse University" width="200"/>
+      <br/>
+      <span>MS in Information Systems</span>
+    </td>
+  </tr>
+</table>
+
+
+
 
 
 
@@ -131,21 +149,34 @@ Built scalable data pipelines on AWS, optimizing revenue per user (ARPU) by 15% 
 
 Skills
 ====
-**Methodologies:** SDLC, Agile, Waterfall
 
-**Programming:** ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) ![R](https://img.shields.io/badge/-R-276DC3?style=flat-square&logo=r&logoColor=white) ![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white) ![PySpark](https://img.shields.io/badge/-PySpark-E25A1C?style=flat-square&logo=apache-spark&logoColor=white) ![Scala](https://img.shields.io/badge/-Scala-DC322F?style=flat-square&logo=scala&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) ![R](https://img.shields.io/badge/-R-276DC3?style=flat-square&logo=r&logoColor=white) ![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white) ![PySpark](https://img.shields.io/badge/-PySpark-E25A1C?style=flat-square&logo=apache-spark&logoColor=white) ![Scala](https://img.shields.io/badge/-Scala-DC322F?style=flat-square&logo=scala&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white) ![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/-scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white) 
+ ![Spark](https://img.shields.io/badge/-Spark-E25A1C?style=flat-square&logo=apache-spark&logoColor=white) ![Hadoop](https://img.shields.io/badge/-Hadoop-66CCFF?style=flat-square&logo=apache-hadoop&logoColor=white) ![Hive](https://img.shields.io/badge/-Hive-FDEE21?style=flat-square&logo=apache-hive&logoColor=black) ![Airflow](https://img.shields.io/badge/-Airflow-017CEE?style=flat-square&logo=apache-airflow&logoColor=white)![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white) ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white) ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white) ![Cassandra](https://img.shields.io/badge/-Cassandra-1287B1?style=flat-square&logo=apache-cassandra&logoColor=white)![Tableau](https://img.shields.io/badge/-Tableau-E97627?style=flat-square&logo=tableau&logoColor=white) ![Power BI](https://img.shields.io/badge/-Power_BI-F2C811?style=flat-square&logo=power-bi&logoColor=black) ![Matplotlib](https://img.shields.io/badge/-Matplotlib-005A9C?style=flat-square&logo=matplotlib&logoColor=white) ![Seaborn](https://img.shields.io/badge/-Seaborn-3785B7?style=flat-square&logo=seaborn&logoColor=white) ![NumPy](https://img.shields.io/badge/-NumPy-013243?style=flat-square&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat-square&logo=pandas&logoColor=white) ![SciPy](https://img.shields.io/badge/-SciPy-8CAAE6?style=flat-square&logo=scipy&logoColor=white) ![VSCode](https://img.shields.io/badge/-VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white) ![PyCharm](https://img.shields.io/badge/-PyCharm-000000?style=flat-square&logo=pycharm&logoColor=white) ![Sagemaker](https://img.shields.io/badge/-Sagemaker-232F3E?style=flat-square&logo=amazon-sagemaker&logoColor=white) ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
 
-**ML/AI:** ![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white) ![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/-scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white) Linear/Logistic Regression, Decision Trees, Time Series, Ensembles, Deep Learning
+ ---
+ Certifications
+ ===
 
-**Data Engineering:** ![Spark](https://img.shields.io/badge/-Spark-E25A1C?style=flat-square&logo=apache-spark&logoColor=white) ![Hadoop](https://img.shields.io/badge/-Hadoop-66CCFF?style=flat-square&logo=apache-hadoop&logoColor=white) ![Hive](https://img.shields.io/badge/-Hive-FDEE21?style=flat-square&logo=apache-hive&logoColor=black) ![Airflow](https://img.shields.io/badge/-Airflow-017CEE?style=flat-square&logo=apache-airflow&logoColor=white)
 
-**Cloud:** ![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white) (EC2, Lambda, S3, RDS, etc.) ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 
-**Databases:** ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white) ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white) ![Cassandra](https://img.shields.io/badge/-Cassandra-1287B1?style=flat-square&logo=apache-cassandra&logoColor=white)
 
-**Visualization:** ![Tableau](https://img.shields.io/badge/-Tableau-E97627?style=flat-square&logo=tableau&logoColor=white) ![Power BI](https://img.shields.io/badge/-Power_BI-F2C811?style=flat-square&logo=power-bi&logoColor=black) ![Matplotlib](https://img.shields.io/badge/-Matplotlib-005A9C?style=flat-square&logo=matplotlib&logoColor=white) ![Seaborn](https://img.shields.io/badge/-Seaborn-3785B7?style=flat-square&logo=seaborn&logoColor=white)
 
-**Tools:** ![NumPy](https://img.shields.io/badge/-NumPy-013243?style=flat-square&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat-square&logo=pandas&logoColor=white) ![SciPy](https://img.shields.io/badge/-SciPy-8CAAE6?style=flat-square&logo=scipy&logoColor=white) ![VSCode](https://img.shields.io/badge/-VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white) ![PyCharm](https://img.shields.io/badge/-PyCharm-000000?style=flat-square&logo=pycharm&logoColor=white) ![Sagemaker](https://img.shields.io/badge/-Sagemaker-232F3E?style=flat-square&logo=amazon-sagemaker&logoColor=white) ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
+
+<div style="display: flex; justify-content: space-around; flex-wrap: wrap;">
+  <img src="https://d1.awsstatic.com/training-and-certification/certification-badges/AWS-Certified-Solutions-Architect-Associate_badge.3419559c682629072f1eb968d59dea0741772c0f.png" alt="AWS Certified Solutions Architect - Associate" width="150"/>
+  <img src="https://images.credly.com/images/d0790dc7-5127-4262-a492-1b60030b0114/MOS_Excel.png" alt="Microsoft Office Specialist Excel" width="150"/>
+  <img src="https://images.credly.com/size/680x680/images/83691e1f-fddf-45ce-b6a2-a28529838223/image.png" alt="Image 1" width="150"/>
+  <img src="https://www.databricks.com/sites/default/files/2021/12/lakehouse-fundamentals.png" alt="Image 2" width="150"/>
+  <img src="https://images.credly.com/size/680x680/images/97fcc871-a820-4143-adf2-62517026cb58/Essentials-Data-Warehouse_2x.png" alt="Image 3" width="150"/>
+</div>
+
+
+
+
+
+
+
 
 Projects
 ====
